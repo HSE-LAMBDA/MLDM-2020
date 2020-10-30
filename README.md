@@ -8,6 +8,9 @@ Repository for the course materials
 ## Link to colab
 - https://colab.research.google.com/github/HSE-LAMBDA/MLDM-2020
 
+## Exam guidelines
+- Wrtitten [here](Exam-guidelines.md).
+
 ## Literature
 - Trevor Hastie, Robert Tibshirani, Jerome Friedman - The Elements of
 Statistical Learning (https://web.stanford.edu/~hastie/ElemStatLearn/)
